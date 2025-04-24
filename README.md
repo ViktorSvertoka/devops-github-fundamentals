@@ -21,7 +21,7 @@
 - [ ] Do we need to implement analytics?
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update
 
-5. Create project for this repository.
+5. Create project for this `repository`.
 
 6. Add deploy key with name `DEPLOY_KEY` to your repository.
 
